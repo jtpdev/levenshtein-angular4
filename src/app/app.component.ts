@@ -22,7 +22,7 @@ export class AppComponent {
     if(this.distance == 0){
       this.message = "Congratulation!";
     }else if(this.distance == -1){
-      this.message = "Came on!? Try again!";
+      this.message = "Come on!? Try again!";
     }else if(this.distance < 2){
       this.message = "A little more!";
     }else if(this.distance < 4){
