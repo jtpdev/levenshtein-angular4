@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Try it
 
-Go to [Levenshtein Example](http://levenshtein-jtpdev.esy.es/), put one name of music that was in [music.service.ts](https://github.com/jtpdev/levenshtein-angular4/blob/master/src/app/music/music.service.ts)
+Go to [Levenshtein Example](http://levenshtein-jtpdev.esy.es/), type one name of music that is in [music.service.ts](https://github.com/jtpdev/levenshtein-angular4/blob/master/src/app/music/music.service.ts)
 
 ## Development server
 
