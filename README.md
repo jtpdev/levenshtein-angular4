@@ -1,5 +1,7 @@
 # Levenshtein
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7e0c5dbce82a4854a7a47bb6119d4b54)](https://www.codacy.com/app/jtpdev/levenshtein-angular4?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jtpdev/levenshtein-angular4&amp;utm_campaign=Badge_Grade)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.5.
 
 ## Try it
